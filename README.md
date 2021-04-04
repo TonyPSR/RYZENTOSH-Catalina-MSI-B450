@@ -19,7 +19,7 @@
 > MacOS supported: macOS 10.15.x Catalina
 
 # Don't forget to update MLB, SystemSerialNumber and SystemUUID under PlatformInfo key in config.plist!!!
-#### For macOS Catalina, use iMac14,2 SMBIOS
+#### For macOS Catalina, use iMac14,2 SMBIOS.
 
 ## What's working?
 - Full Hardware Acceleration
