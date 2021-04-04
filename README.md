@@ -14,7 +14,7 @@
 | Sound Card          | Realtek ALC892 Codec                                |
 | LAN                 | Realtek® 8111H Gigabit LAN controller               |
 
-> OpenCore Verison: 0.6.5
+> OpenCore Verison: 0.6.7
 
 > MacOS supported: macOS 10.15.x Catalina
 
