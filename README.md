@@ -47,3 +47,6 @@
 4. MountEFI: https://github.com/corpnewt/MountEFI
 5. SSDTTime: https://github.com/corpnewt/SSDTTime
 6. AMD Power Gadget(optional): https://github.com/trulyspinach/SMCAMDProcessor/releases
+
+## macOS 11 Big Sur build: https://github.com/TonyPSR/RYZENTOSH-BigSur-MSI-B450
+
