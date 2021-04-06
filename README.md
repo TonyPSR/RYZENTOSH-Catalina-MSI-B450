@@ -30,7 +30,7 @@
   - Mic
 
 ## What's Not Working?
-- Softwares using Intel Virtualization Technology
+- Applications using Intel Virtualization Technology
   - Android Emulators (use physical devices or Genymotion Android Emulator)
   - Docker Engine (there are workarounds but not recommended)
 - Sleep (Fix: Disable sleep in System Preferences)
