@@ -22,6 +22,7 @@
 #### For macOS Catalina, use iMac14,2 SMBIOS.
 
 ## What's working?
+- Almost everything
 - Full Hardware Acceleration
 - Audio (Speaker + Headphone)
 - Ethernet
