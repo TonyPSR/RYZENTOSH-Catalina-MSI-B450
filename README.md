@@ -39,6 +39,7 @@
 - iServices (Facetime, iMessage...)
 - Adobe Suite
 - Wi-Fi & Bluetooth dongles
+- USB 3.1
 
 ## Important Links
 1. OpenCorePkg: https://github.com/acidanthera/OpenCorePkg
